@@ -188,13 +188,12 @@ const talents = [
   },
   {
     nombre: 'Marcela Brenes',
-    profesion: 'Full Stack / Criminóloga',
+    profesion: 'Full Stack / Junior Graphic Designer',
     imagen: 'assets/img/marcela.png',
     home_page: '#',
     redes_sociales: [
-      {link: '#', class_iconos: 'fab fa-github-square fa-2x pl-1'},
-      {link: '#', class_iconos: 'fab fa-linkedin fa-2x pl-1'},
-      {link: '#', class_iconos: 'fab fa-facebook-square fa-2x pl-1'},
+      {link: 'https://github.com/marcelabrenes', class_iconos: 'fab fa-github-square fa-2x pl-1'},
+      {link: 'https://www.linkedin.com/in/marcela-brenes/', class_iconos: 'fab fa-linkedin fa-2x pl-1'},
     ]
   },
   {
