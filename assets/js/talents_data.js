@@ -189,7 +189,7 @@ const talents = [
   {
     nombre: 'Marcela Brenes',
     profesion: 'Full Stack / Junior Graphic Designer',
-    imagen: 'assets/img/marcela.png',
+    imagen: 'assets/img/marcela.jpg',
     home_page: '#',
     redes_sociales: [
       {link: 'https://github.com/marcelabrenes', class_iconos: 'fab fa-github-square fa-2x pl-1'},
